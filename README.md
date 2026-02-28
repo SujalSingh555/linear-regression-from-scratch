@@ -65,7 +65,7 @@ Test Set R² Score: ~0.76
 This means the model explains approximately 76% of the variance in housing prices using a linear model.
 
 ---
-
+```
 ##  Project Structure
 linear-regression-from-scratch/
 │
@@ -76,7 +76,7 @@ linear-regression-from-scratch/
 ├── train.py # Training pipeline
 ├── README.md
 └── requirements.txt
-
+```
 ## 🔮 Possible Extensions
 
 While this project focuses on core linear regression fundamentals, the framework can be extended to explore:
